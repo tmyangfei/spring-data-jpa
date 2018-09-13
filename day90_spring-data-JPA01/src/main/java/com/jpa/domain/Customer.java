@@ -29,6 +29,7 @@ public class Customer {
                     sequenceName = "seq_customer_id",   // 数据库序列名字
                     initialValue = 1,   // 从1开始
                     allocationSize = 1  // 每次增长1(默认50)
+                    000
     )*/
     //@GeneratedValue(strategy = GenerationType.TABLE)
     //@GeneratedValue(strategy = GenerationType.AUTO)
